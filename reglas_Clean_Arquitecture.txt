@@ -1,0 +1,4 @@
+Core define reglas
+Infrastructure resuelve detalles
+Services orquestan
+Web expone
